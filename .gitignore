@@ -1,0 +1,6 @@
+npm-debug.log
+node_modules
+localhost.cert
+localhost.key
+package-lock.json
+./config/auth.js
